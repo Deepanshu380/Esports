@@ -9,7 +9,7 @@ TECHNOLIGIES USED :-
 
 DESCRIPTION :-
 
-As far as Running of the website is concerned locally , One can Fog the file and then Clone it So as to se the file in his/her working space.
+As far as Running of the website is concerned locally , One can Folk the file and then Clone it So as to see the file in his/her working space.
 
 If we talk about the references , Google chrome is our helping hand . Various websites availabe on Chrome has allowed to us to work smoothly .
 
@@ -23,4 +23,4 @@ Being a developer the first issue we face is of bugs or Errors . The ones which 
 
 LEARNING:-
 
-The first thing we learnt was about the ESPORTS and its vast Community . We learnt to play some of the games too and Also we Learnt how to complete tasks weel in time given a short Due date .
+The first thing we learnt was about the ESPORTS and its vast Community . We learnt to play some of the games too and Also we Learnt how to complete tasks well in time given a short Due date .
