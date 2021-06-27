@@ -15,6 +15,8 @@ If we talk about the references , Google chrome is our helping hand . Various we
 
 The basic to Advanced CSS has been used which has made our website looks fascinating for a Gamer to look upon , and as far as JavaScript is concernced basic level has been used .
 
+In this we have created 6 cards of diffrent games which on tapping redirects you to the registeration form but after submiting the form to get the cards back you need to refresh the page.
+
 Our website surely Attracts gaming minds , thus justifying itself for the E-Sports .
 
 PROBLEMS FACED:-
