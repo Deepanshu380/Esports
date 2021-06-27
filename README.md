@@ -9,7 +9,7 @@ TECHNOLIGIES USED :-
 
 DESCRIPTION :-
 
-As far as Running of the website is concerned locally , One can Folk the file and then Clone it So as to see the file in his/her working space.
+As far as Running of the website is concerned locally , One can Fork the file and then Clone it So as to see the file in his/her working space.
 
 If we talk about the references , Google chrome is our helping hand . Various websites availabe on Chrome has allowed to us to work smoothly .
 
